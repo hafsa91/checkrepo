@@ -35,6 +35,7 @@ $(document).ready(function(){
 			$(this).parent().remove();*/
    });
    });
+   console.log("hey");
 	
 	
 	
